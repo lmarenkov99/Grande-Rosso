@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'GothamPro';
+    src: url('../fonts/GothamPro.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/GothamPro.woff') format('woff'),
+    url('../fonts/GothamPro.ttf')  format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GothamPro';
+    src: url('../fonts/GothamPro-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/GothamPro-Medium.woff') format('woff'),
+    url('../fonts/GothamPro-Medium.ttf')  format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GothamPro';
+    src: url('../fonts/GothamPro-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/GothamPro-Bold.woff') format('woff'),
+    url('../fonts/GothamPro-Bold.ttf')  format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Dutch801CyrillicBT';
+    src: url('../fonts/Dutch801CyrillicBT-Roman.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Dutch801CyrillicBT-Roman.woff') format('woff'),
+    url('../fonts/Dutch801CyrillicBT-Roman.ttf')  format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
